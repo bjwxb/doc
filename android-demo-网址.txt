@@ -1,0 +1,7 @@
+1.http://www.cnblogs.com/ldq2016/p/5217590.html   各种炫酷的效果
+
+2.https://www.cnblogs.com/dongyu666/p/6971783.html   完美的单例模式
+
+3.http://jayfeng.com/2016/03/01/Android-APP%E7%BB%88%E6%9E%81%E7%98%A6%E8%BA%AB%E6%8C%87%E5%8D%97/   android-app 瘦身指南
+
+4.http://www.atool.org/ios_logo.php     logo图片各种尺寸生成
